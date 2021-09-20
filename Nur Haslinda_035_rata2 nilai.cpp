@@ -14,7 +14,7 @@ int main() {
 	n_prak=nilai_praktikum*40/100;
 	n_teori=nilai_teori*40/100;
 	n_fipro=nilai_final_project*20/100;
-	ratarata=n_prak+n_teori+n_fipro/3;
+	ratarata=n_prak+n_teori+n_fipro;
 	
 	cout<<"\nRata-rata mata kuliah pemrograman = "<<ratarata;
 	
